@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BookStore.Models;
+using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using WebApplication3.Models;
 
 namespace WebApplication3.Controllers
 {

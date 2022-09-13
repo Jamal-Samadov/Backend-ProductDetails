@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace WebApplication3.Models
+namespace BookStore.Models
 {
     public class ShopItems
     {
