@@ -28,8 +28,7 @@ namespace WebApplication3.Controllers
         }
         public IActionResult Index()
         {
-            List<Slider> sliders = _context.Sliders.ToList();
-            return View(sliders);
+            return View(_items);
         }
     }
 }
